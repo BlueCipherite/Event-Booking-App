@@ -1,4 +1,4 @@
-#Project Title#
+# Project Title
 Event-Booking-App
 
 ##Built with##
