@@ -1,7 +1,7 @@
 # Project Title
 Event-Booking-App
 
-##Built with##
+## Built with
 HTML, CSS, JavaScript, and Firebase.
 
 
